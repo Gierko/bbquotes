@@ -9,4 +9,4 @@ def quotes():
     quotes = r["quote"]
     author = r["author"]
 
-    return f"{quotes} ({author})"
+    return f"QUOTE:{quotes} ({author})"

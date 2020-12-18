@@ -1,1 +1,1 @@
-web: sh pip install -U . && bbquotes-quotes
+web: pip install . -U && bbquotes-quotes
